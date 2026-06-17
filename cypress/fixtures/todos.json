@@ -1,0 +1,4 @@
+{
+  "defaultTodos": ["Buy milk", "Go for a walk"],
+  "newTodo": "Learn Cypress"
+}
